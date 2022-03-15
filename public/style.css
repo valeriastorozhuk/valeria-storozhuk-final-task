@@ -1,0 +1,84 @@
+body {
+    font-family: "Roboto";
+    color: #010432;
+  }
+
+.footer {
+    background-color: #f6e2de;
+}
+
+.header {
+    height:100%;
+    background-size: 100%;
+    background-image:url("/src/Pictures/abstract-20360_1920.jpg");
+}    
+
+.footer-header {
+    font-family: "October Twilight";
+    font-size: 30px;
+    color: #708c87;
+    text-decoration: none;
+  }
+
+.copyright {
+    color: #708c87;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.header-menu {
+    font-family: "October Twilight";
+    font-size: 30px;
+    color: #708c87;
+    
+}
+
+.thankyou {
+    font-family: "October Twilight";
+    font-size: 50px;
+    color: #708c87;
+    
+}
+
+.cart {
+    background-color: #f0b6ae;
+}
+
+.catimg {
+    width: 300px;
+}
+
+.prodimg {
+    width: 200px;
+    height: 200px;
+}
+
+.breadcrumb {
+    font-family: "October Twilight";
+    color: #f0b6ae;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.errMsg {
+    color: red;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+  }
+  
+
+.reg {
+    display: inline-block;
+	height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 1px solid white;
+    padding: 0 1rem;
+}
+    
